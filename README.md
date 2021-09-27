@@ -36,5 +36,7 @@ This example illustrates how to remove the gridline of [WPF DataGrid](https://ww
 </Style>
 ```
 
+KB article - [How to remove the gridline of WPF DataGrid(SfDataGrid) with grouping](https://www.syncfusion.com/kb/11009/how-to-remove-the-gridline-of-wpf-datagrid-sfdatagrid-with-grouping)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
