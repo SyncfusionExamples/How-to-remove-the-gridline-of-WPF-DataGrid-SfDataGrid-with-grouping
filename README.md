@@ -1,4 +1,4 @@
-# How to remove the gridline of WPF DataGrid(SfDataGrid) with grouping?
+# How to remove the gridline of WPF DataGrid with grouping?
 
 In [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) having gird lines for each row and column. But we can remove the grid lines for default row by write style for BorderThickness of [GridCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridCell.html) and remove the grid lines for caption row by write style for BorderThickness of [GridCaptionSummaryCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridCaptionSummaryCell.html) and [GridIndentCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridIndentCell.html).
 
